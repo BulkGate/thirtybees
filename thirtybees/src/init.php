@@ -4,13 +4,13 @@
  * @link https://www.bulkgate.com/
  */
 
-define('_BULKGATE_DIR_', __DIR__.'/../../');
+define('_BULKGATE_SLUG_', 'bulkgate_thirtybees');
+define('_BULKGATE_DIR_', _PS_MODULE_DIR_.'/'._BULKGATE_SLUG_);
 
 define('_BULKGATE_NAME_', 'BulkGate');
-define('_BULKGATE_AUTHOR_', 'TOPefekt s.r.o.');
+define('_BULKGATE_AUTHOR_', 'BulkGate.com');
 define('_BULKGATE_AUTHOR_URL_', 'https://www.bulkgate.com/');
 define('_BULKGATE_PS_MIN_VERSION_', '1.0.0.0');
-define('_BULKGATE_SLUG_', 'bulkgate_thirtybees');
 define('_BULKGATE_VERSION_', '1.0.0');
 define('_BULKGATE_DEMO_', false);
 

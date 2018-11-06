@@ -11,7 +11,7 @@ require_once __DIR__.'/thirtybees/src/init.php';
  * @author Lukáš Piják 2018 TOPefekt s.r.o.
  * @link https://www.bulkgate.com/
  */
-class BulkGate_Thirtybees extends Module
+class BulkGate_ThirtyBees extends Module
 {
     /** @var ThirtyBeesSms\DIContainer */
     private $ps_di;
@@ -41,7 +41,7 @@ class BulkGate_Thirtybees extends Module
         $this->ps_translator = $this->ps_di->getTranslator();
 
         $this->displayName = _BULKGATE_NAME_;
-        $this->description = $this->l('Extend your PrestaShop store capabilities. Send personalized bulk SMS messages. Notify your customers about order status via customer SMS notifications. Receive order updates via Admin SMS notifications.');
+        $this->description = $this->l('Extend your ThirtyBees store capabilities. Send personalized bulk SMS messages. Notify your customers about order status via customer SMS notifications. Receive order updates via Admin SMS notifications.');
 
         $this->confirmUninstall = $this->l('Are you sure you want to uninstall this module?');
 
@@ -63,8 +63,8 @@ class BulkGate_Thirtybees extends Module
     {
         $install = parent::install();
         $this->ps_settings->install();
-        ThirtyBeesSms\Helpers::installMenu($this->ps_translator);
         $this->installHooks();
+        ThirtyBeesSms\Helpers::installMenu($this->ps_translator);
 
         return $install;
     }
@@ -96,6 +96,19 @@ class BulkGate_Thirtybees extends Module
         $this->registerHook('actionBulkGateSendSms');
         $this->registerHook('actionBulkGateExtendsVariables');
         $this->registerHook('displayAdminOrderRight');
+        $this->registerHook('displayBackOfficeHeader');
+    }
+
+
+    public function hookDisplayBackOfficeHeader()
+    {
+        /** @var Controller $controller */
+        $controller = $this->context->controller;
+
+        if($controller instanceof Controller && $this instanceof ModuleCore)
+        {
+            $controller->addCSS($this->getPathUri().'css/menu.css');
+        }
     }
 
 

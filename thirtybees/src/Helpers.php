@@ -50,8 +50,10 @@ class Helpers extends Extensions\Strict
 
         $result = \Db::getInstance(_PS_USE_SQL_SLAVE_)->executeS('SELECT `id_tab`, `class_name`, `module` FROM `'._DB_PREFIX_.'tab` WHERE `module` = \''._BULKGATE_SLUG_.'\'', true, false);
 
-        if (is_array($result)) {
-            foreach ($result as $row) {
+        if (is_array($result))
+        {
+            foreach ($result as $row)
+            {
                 $output[$row['class_name']] = \Tools::getAdminToken($row['class_name'].(int)$row['id_tab'].(int)\Context::getContext()->employee->id);
             }
         }
@@ -62,7 +64,7 @@ class Helpers extends Extensions\Strict
     {
         $main = Helpers::installModuleTab('BULKGATE', $translator->translate('bulkgate', 'BulkGate'), 0,  'mail_outline');
 
-        $dashboard = Helpers::installModuleTab('AdminBulkGateDashboardDefault', $translator->translate('dashboard','Dashboard'), $main, 'desktop_windows');
+        $dashboard = Helpers::installModuleTab('AdminBulkGateDashboardDefault', $translator->translate('dashboard','Dashboard'), $main);
 
         Helpers::installModuleTab('AdminBulkGateSmsCampaignNew', $translator->translate('start_campaign','Start Campaign'), $main);
         Helpers::installModuleTab('AdminBulkGateSmsCampaignDefault', $translator->translate('campaigns','Campaigns'), $main);
@@ -84,11 +86,11 @@ class Helpers extends Extensions\Strict
 
         Helpers::installModuleTab('AdminBulkGateAboutDefault', $translator->translate('about_module','About module'), $main);
 
-        Helpers::installModuleTab('AdminBulkGateSignIn', '', $dashboard);
-        Helpers::installModuleTab('AdminBulkGateSignUp', '', $dashboard);
-        Helpers::installModuleTab('AdminBulkGateSmsCampaignCampaign', '', $dashboard);
-        Helpers::installModuleTab('AdminBulkGateSmsCampaignActive', '', $dashboard);
-        Helpers::installModuleTab('AdminBulkGateBlackListImport', '', $dashboard);
+        Helpers::installModuleTab('AdminBulkGateSignIn', 'SignIn', $dashboard);
+        Helpers::installModuleTab('AdminBulkGateSignUp', 'SignUp', $dashboard);
+        Helpers::installModuleTab('AdminBulkGateSmsCampaignCampaign', 'SmsCampaignCampaign', $dashboard);
+        Helpers::installModuleTab('AdminBulkGateSmsCampaignActive', 'SmsCampaignActive', $dashboard);
+        Helpers::installModuleTab('AdminBulkGateBlackListImport', 'BlackListImport', $dashboard);
     }
 
     public static function uninstallMenu()

@@ -1,0 +1,13 @@
+
+.icon-BULKGATE {
+    text-align: center;
+    width: 1.28571em;
+}
+
+.icon-BULKGATE:hover {
+    text-align: center;
+}
+
+.icon-BULKGATE:before {
+    content: "\f003";
+}
