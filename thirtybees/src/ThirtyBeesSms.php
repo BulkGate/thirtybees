@@ -22,7 +22,7 @@ class ThirtyBeesSMS extends Strict implements IModule
         'url' => 'http://www.bulkgate.com',
         'developer' => _BULKGATE_AUTHOR_,
         'developer_url' => 'http://www.topefekt.com/',
-        'description' => 'BulkGate module extends your ThirtyBees store capabilities and creates new opportunities for your business. You can promote your products and sales via personalized bulk SMS. Make your customers happy by notifying them about order status change via SMS notifications. Receive an SMS whenever a new order is placed, a product is out of stock, and much more.',
+        'description' => 'BulkGate module extends your thirty bees store capabilities and creates new opportunities for your business. You can promote your products and sales via personalized bulk SMS. Make your customers happy by notifying them about order status change via SMS notifications. Receive an SMS whenever a new order is placed, a product is out of stock, and much more.',
     );
 
     /** @var ISettings */
