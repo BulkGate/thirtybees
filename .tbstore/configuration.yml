@@ -11,7 +11,7 @@ images:
 - image-4.jpg
 - image-5.jpg
 - image-6.jpg
-license: "GPL-3.0"
+license: OSL
 localization:
 - EN
 - FR
@@ -28,7 +28,7 @@ php_version:
 tags:
 - sms
 - "send sms"
-- "sms notifications
+- "sms notifications"
 - "bulk sms"
 - "thirty bees"
 - "thirty bees sms"
