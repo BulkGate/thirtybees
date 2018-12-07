@@ -67,7 +67,7 @@ This module has BulkGate <a href="https://www.bulkgate.com/en/" target="_blank" 
 
 ### Pricing
 
-The module is completely for free. The only thing you pay for are SMS messages sent via this module. Check our a href="https://www.bulkgate.com/en/sms-price" target="_blank" title="BulkGate pricing">price list</a>to see how much does it cost in your country and countries where you'll send messages.
+The module is completely for free. The only thing you pay for are SMS messages sent via this module. Check our <a href="https://www.bulkgate.com/en/sms-price" target="_blank" title="BulkGate pricing">price list</a> to see how much does it cost in your country and countries where you'll send messages.
 
 * No monthly fees or minimum payments. You pay only for sent SMS
 * SMS price depends on the top-up amount. Purchase more and save money on every SMS message you send
