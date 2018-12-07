@@ -1,0 +1,53 @@
+author: BulkGate
+category: marketing
+compatible_versions: 1.0.0+
+description: description.md
+description_short: "Extend your Thirty Bees store capabilities. Send personalized bulk SMS messages. Notify your customers about order status via customer SMS notifications. Receive order updates via Admin SMS notifications."
+gdpr_compliant: true
+images:
+- image-1.jpg
+- image-2.jpg
+- image-3.jpg
+- image-4.jpg
+license: "GPL-3.0"
+localization:
+- EN
+- FR
+- CS
+module_name: "BulkGate"
+php_version:
+- 5.3
+- 5.4
+- 5.5
+- 5.6
+- 7.0
+- 7.1
+- 7.2
+tags:
+- sms
+- "send sms"
+- "sms notifications
+- "bulk sms"
+- "thirty bees"
+- "thirty bees sms"
+- "sms thirty bees"
+- "sms order"
+- "customer notification"
+- "notify admin"
+- "sms campaign"
+- "sms plugin"
+- "sms module"
+- eshop
+- ecommerce
+- "sms marketing"
+- "target marketing"
+- "sms api"
+- "sms gateway"
+- "sms alerts"
+- alerts
+- notifications
+- "order status" 
+- "marketing campaigns"
+- "2-way SMS"
+- "two way SMS"
+- "two way communication"
