@@ -1,5 +1,5 @@
 
-<img src="https://portal.bulkgate.com/images/products/bg.svg" width="300" />
+<img src="https://github.com/BulkGate/thirtybees/raw/master/.tbstore/images/image-1.jpg" width="300" />
 
 
 http://www.bulkgate.com/
