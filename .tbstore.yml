@@ -28,34 +28,34 @@ php_version:
 - 7.2
 tags:
 - sms
-- "send sms"
-- "sms notifications"
-- "bulk sms"
-- "thirty bees"
-- "thirty bees sms"
-- "sms thirty bees"
-- "sms order"
-- "customer notification"
-- "notify admin"
-- "sms campaign"
-- "sms plugin"
-- "sms module"
-- "eshop"
-- "ecommerce"
-- "sms marketing"
-- "target marketing"
-- "sms api"
-- "sms gateway"
-- "sms alerts"
-- "alerts"
-- "notifications"
-- "order status" 
-- "marketing campaigns"
-- "2-way SMS"
-- "two way SMS"
-- "two way communication"
-- "custom hooks"
-- "thirty bees sms notifications" 
-- "affiliate program"
-- "order sms notifications"
-- "sms notification module"
+- send sms
+- sms notifications
+- bulk sms
+- thirty bees
+- thirty bees sms
+- sms thirty bees
+- sms order
+- customer notification
+- notify admin
+- sms campaign
+- sms plugin
+- sms module
+- eshop
+- ecommerce
+- sms marketing
+- target marketing
+- sms api
+- sms gateway
+- sms alerts
+- alerts
+- notifications
+- order status 
+- marketing campaigns
+- 2-way SMS
+- two way SMS
+- two way communication
+- custom hooks
+- thirty bees sms notifications
+- affiliate program
+- order sms notifications
+- sms notification module
