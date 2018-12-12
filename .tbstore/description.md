@@ -63,7 +63,7 @@ Earn a commission on happy customers with our <a href="https://www.bulkgate.com/
 
 ## Powered by BulkGate
 
-This module has BulkGate <a href="https://www.bulkgate.com/en/" target="_blank" title="SMS Gateway">SMS gateway</a> in its heart. This means that the module communicates with and is depended on our BulkGate communications platform in order to provide you all the necessary services. This module has all the important functions and intuitive design that you can find in BulkGate Portal. <strong>See all the <a href="https://www.bulkgate.com/en/integrations/" target="_blank" title="">integrations</a> and SMS APIs we have developed so far.</strong>
+This module has [BulkGate](https://www.bulkgate.com/en/) <a href="https://www.bulkgate.com/en/" target="_blank" title="SMS Gateway">SMS gateway</a> in its heart. This means that the module communicates with and is depended on our BulkGate communications platform in order to provide you all the necessary services. This module has all the important functions and intuitive design that you can find in BulkGate Portal. <strong>See all the <a href="https://www.bulkgate.com/en/integrations/" target="_blank" title="">integrations</a> and SMS APIs we have developed so far.</strong>
 
 ### Pricing
 
