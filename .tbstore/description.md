@@ -11,7 +11,7 @@
 <strong>Stay informed</strong>
 * Receive with other store admins <a href="https://www.bulkgate.com/en/sms-module#admin-sms-notification" target="_blank" title="Admin SMS notifications"><strong>SMS notifications</strong></a> whenever a new order is placed, a product is out of stock, and much more
 
-Watch a short walkthrough video of the BulkGate module for thirty bees
+#### Watch a short walkthrough video of the BulkGate module for thirty bees
 <iframe src="https://www.youtube.com/embed/YmU_F_cXYco?rel=0&showinfo=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 ## Features
