@@ -2,7 +2,7 @@
 
 ## Why use BulkGate module?
 
-<strong>Extend your thirty bees store capabilities and create new opportunities for your business</strong> with <a href="http://www.bulkgate.com/" target="_blank" title="BulkGate SMS gateway">BulkGate</a> module for thirty bees.
+Extend your thirty bees store capabilities and create new opportunities for your business with <a href="http://www.bulkgate.com/" target="_blank" title="BulkGate SMS gateway">BulkGate</a> module for thirty bees.
 
 #### Improve customer relationship
 * Make your customers happy and notify them about order status change via <a href="https://www.bulkgate.com/en/sms-module#customer-sms-notification" target="_blank" title="Customer SMS notifications"><strong>SMS notifications</strong></a> 
