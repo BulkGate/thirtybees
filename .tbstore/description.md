@@ -1,18 +1,17 @@
+<iframe src="https://www.youtube.com/embed/YmU_F_cXYco?rel=0&showinfo=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+
 ## Why use BulkGate module?
 
 <strong>Extend your thirty bees store capabilities and create new opportunities for your business</strong> with <a href="http://www.bulkgate.com/" target="_blank" title="BulkGate SMS gateway">BulkGate</a> module for thirty bees.
 
-<strong>Improve customer relationship</strong>
+#### Improve customer relationship
 * Make your customers happy and notify them about order status change via <a href="https://www.bulkgate.com/en/sms-module#customer-sms-notification" target="_blank" title="Customer SMS notifications"><strong>SMS notifications</strong></a> 
 
-<strong>Increase sales</strong>
+#### Increase sales
 * Promote your products and services via <a href="https://www.bulkgate.com/en/solutions/bulk-sms" target="_blank" title="Bulk SMS"><strong>targeted & personalized bulk SMS</strong></a>
 
-<strong>Stay informed</strong>
+#### Stay informed
 * Receive with other store admins <a href="https://www.bulkgate.com/en/sms-module#admin-sms-notification" target="_blank" title="Admin SMS notifications"><strong>SMS notifications</strong></a> whenever a new order is placed, a product is out of stock, and much more
-
-#### Watch a short walkthrough video of the BulkGate module for thirty bees
-<iframe src="https://www.youtube.com/embed/YmU_F_cXYco?rel=0&showinfo=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 ## Features
 ### Customer & Admin SMS notification
