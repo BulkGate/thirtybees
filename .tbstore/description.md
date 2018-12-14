@@ -22,15 +22,11 @@ Your customers are what matter most. Notify them.
 * Create your <strong>custom SMS notifications</strong>
 * Adjust <a href="https://help.bulkgate.com/docs/en/customer-sms.html#how-can-i-adjust-multilingual-sms-templates" target="_blank" title="Multilingual SMS templates"><strong>multilingual SMS templates</strong></a> and notify your customers in their native language, or the language of the visited website
 * <strong>Automatic conversion</strong>  of customer´s mobile number <strong> to international format</strong> and many other great features!
-
-<iframe src="https://www.youtube.com/embed/B3vdkNm64rE?rel=0&showinfo=0" width="444" height="250" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
-
+<p></p>
 <strong>Receive SMS notification whenever there is any change in your thirty bees store.</strong>
-
 * <strong>Receive SMS notifications</strong> whenever a new order is placed, cancelled, product is out of stock, or other event occurs in your store
 * <strong>Activate one or more admins</strong> for each SMS message template (event), so nothing slips through the cracks. One of the admins will receive SMS alerts whenever the event happens
 
-<iframe src="https://www.youtube.com/embed/mj6Ea3eVOac?rel=0&showinfo=0" width="444" height="250" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 ### Bulk SMS campaigns & target marketing
 
