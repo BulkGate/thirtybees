@@ -2,10 +2,10 @@
 
 ## Why use BulkGate module?
 
-Extend your thirty bees store capabilities and create new opportunities for your business with <a href="http://www.bulkgate.com/" target="_blank" title="BulkGate SMS gateway">BulkGate</a> module for thirty bees.
+Extend your thirty bees store capabilities and create new opportunities for your business with <a href="https://www.bulkgate.com/en/integrations/thirty-bees-sms-module/" target="_blank" title="BulkGate module">BulkGate module</a> for thirty bees. BulkGate module allows you to notify, promote and communicate with your customer everywhere in the world. Have a look how our <a href="https://www.bulkgate.com/en/" target="_blank" title="BulkGate multichannel platform"><strong>multichannel platform</strong></a> and <a href="https://www.bulkgate.com/en/solutions/sms-gateway/" target="_blank" title="BulkGate SMS gateway"><strong>SMS gateway</strong></a> help your business stand out!
 
 #### Improve customer relationship
-* Make your customers happy and notify them about order status change via <a href="https://www.bulkgate.com/en/sms-module#customer-sms-notification" target="_blank" title="Customer SMS notifications"><strong>SMS notifications</strong></a> 
+* Make your customers happy and notify them about order status change via <a href="https://www.bulkgate.com/en/solutions/sms-notifications/" target="_blank" title="SMS notifications"><strong>SMS notifications</strong></a> 
 
 #### Increase sales
 * Promote your products and services via <a href="https://www.bulkgate.com/en/solutions/bulk-sms" target="_blank" title="Bulk SMS"><strong>targeted & personalized bulk SMS</strong></a>
@@ -42,7 +42,7 @@ Attract your customer’s attention.
 ### Affiliate program for developers
 
 Earn a commission on happy customers with our <a href="https://www.bulkgate.com/en/developers/affiliate-program/" target="_blank" title="Affiliate program">affiliate program.</a> 
-* <strong>Earn 5-7% commission on every SMS message</strong> your customer sends via this SMS module for thirty bees or other <a href="https://www.bulkgate.com/en/sms-plugin/" target="_blank" title="SMS modules">SMS modules,</a> <a href="https://www.bulkgate.com/en/developers/sms-api/" target="_blank" title="SMS APIs">SMS API</a> and BulkGate <a href="https://www.bulkgate.com/en/sms-portal/" target="_blank" title="BulkGate Portal">Portal</a> 
+* <strong>Earn 5% commission on every SMS message</strong> your customer sends via this SMS module for thirty bees or other <a href="https://www.bulkgate.com/en/integrations/" target="_blank" title="BulkGate integrations">integrations,</a> <a href="https://www.bulkgate.com/en/developers/sms-api/" target="_blank" title="SMS APIs">SMS API</a> and BulkGate <a href="https://www.bulkgate.com/en/web-portal/" target="_blank" title="BulkGate Portal">Web Portal</a> 
 
 ## Few of other great features
 
@@ -63,7 +63,7 @@ Earn a commission on happy customers with our <a href="https://www.bulkgate.com/
 
 ## Powered by BulkGate
 
-This module has BulkGate <a href="https://www.bulkgate.com/en/" target="_blank" title="SMS Gateway">SMS gateway</a> in its heart. This means that the module communicates with and is depended on our BulkGate communications platform in order to provide you all the necessary services. This module has all the important functions and intuitive design that you can find in BulkGate Portal. <strong>See all the <a href="https://www.bulkgate.com/en/integrations/" target="_blank" title="">integrations</a> and SMS APIs we have developed so far.</strong>
+This module has BulkGate <a href="https://www.bulkgate.com/en/solutions/sms-gateway/" target="_blank" title="SMS Gateway">SMS gateway</a> in its heart. This means that the module communicates with and is depended on our BulkGate communications platform in order to provide you all the necessary services. This module has all the important functions and intuitive design that you can find in BulkGate Portal. <strong>See all the <a href="https://www.bulkgate.com/en/integrations/" target="_blank" title="">integrations</a> and SMS APIs we have developed so far.</strong>
 
 ### Pricing
 
